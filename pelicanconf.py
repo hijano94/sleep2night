@@ -10,6 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
+STATIC_PAHTS = ['images']
 DEFAULT_LANG = 'es'
 
 THEME = "hyde"

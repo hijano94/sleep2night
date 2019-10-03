@@ -7,3 +7,6 @@ __pycache__/
 pyvenv.cfg
 share/
 ~./
+
+# Local Netlify folder
+.netlify
